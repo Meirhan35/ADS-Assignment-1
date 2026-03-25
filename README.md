@@ -3,7 +3,7 @@
 ## Student Information
 
 * **Name:** Мейірхан Әбілдә
-* **Group:** *(Write your group here)*
+* **Group:** *IT-2503*
 
 ---
 
@@ -58,6 +58,7 @@ assignment1/
 Print each digit of a number on a separate line using recursion.
 
 📸 Screenshot:
+<img width="1470" height="956" alt="Screenshot 2026-03-24 at 14 48 09" src="https://github.com/user-attachments/assets/0c9df6c2-d823-4730-8eb5-b106565ad8a3" />
 
 
 ---
@@ -68,7 +69,8 @@ Print each digit of a number on a separate line using recursion.
 Calculate the sum recursively and compute the average.
 
 📸 Screenshot:
-*(Add screenshot here)*
+<img width="1470" height="956" alt="Screenshot 2026-03-24 at 15 14 01" src="https://github.com/user-attachments/assets/385e7a05-2029-4243-8a97-c739c0d7b369" />
+
 
 ---
 
@@ -78,7 +80,9 @@ Calculate the sum recursively and compute the average.
 Check if a number is prime using recursion.
 
 📸 Screenshot:
-*(Add screenshot here)*
+<img width="1470" height="956" alt="Screenshot 2026-03-25 at 05 24 02" src="https://github.com/user-attachments/assets/6dbce0b0-98b7-462a-8bf7-d9cfaaf2c8ab" />
+<img width="1470" height="956" alt="Screenshot 2026-03-25 at 05 24 21" src="https://github.com/user-attachments/assets/d658bbdd-ba8e-45e7-a2d4-95461269f0e0" />
+
 
 ---
 
@@ -88,7 +92,8 @@ Check if a number is prime using recursion.
 Compute factorial of a number recursively.
 
 📸 Screenshot:
-*(Add screenshot here)*
+<img width="1470" height="956" alt="Screenshot 2026-03-25 at 05 27 50" src="https://github.com/user-attachments/assets/23ff60c7-935f-4b2f-90d5-2b2bc08c952b" />
+
 
 ---
 
@@ -100,7 +105,9 @@ Compute factorial of a number recursively.
 Find the n-th Fibonacci number using recursion.
 
 📸 Screenshot:
-*(Add screenshot here)*
+<img width="1470" height="956" alt="Screenshot 2026-03-25 at 05 34 09" src="https://github.com/user-attachments/assets/eb6e7410-7c38-4b50-9c99-c7b88c42faa1" />
+<img width="1470" height="956" alt="Screenshot 2026-03-25 at 06 20 47" src="https://github.com/user-attachments/assets/257a631f-98ac-4740-b533-3965530bd08f" />
+
 
 ---
 
@@ -110,7 +117,8 @@ Find the n-th Fibonacci number using recursion.
 Compute ( a^n ) recursively.
 
 📸 Screenshot:
-*(Add screenshot here)*
+<img width="1470" height="956" alt="Screenshot 2026-03-25 at 05 36 53" src="https://github.com/user-attachments/assets/a26f61f2-8108-4747-8780-44c0d64581fb" />
+
 
 ---
 
@@ -119,8 +127,9 @@ Compute ( a^n ) recursively.
 **Description:**
 Print numbers in reverse order using recursion without extra arrays.
 
-📸 Screenshot:
-*(Add screenshot here)*
+📸 Screenshot:<img width="1470" height="956" alt="Screenshot 2026-03-25 at 05 39 42" src="https://github.com/user-attachments/assets/41f09cdd-1a99-4cf3-8dbe-60422b21b8a0" />
+
+
 
 ---
 
@@ -132,7 +141,9 @@ Print numbers in reverse order using recursion without extra arrays.
 Check if a string contains only digits.
 
 📸 Screenshot:
-*(Add screenshot here)*
+<img width="1470" height="956" alt="Screenshot 2026-03-25 at 05 52 09" src="https://github.com/user-attachments/assets/40b9356c-8b4c-4c8d-b97d-0263a25bb618" />
+<img width="1470" height="956" alt="Screenshot 2026-03-25 at 05 52 23" src="https://github.com/user-attachments/assets/a00d12c3-6be8-4599-adbd-952565bdfe1f" />
+
 
 ---
 
@@ -142,7 +153,9 @@ Check if a string contains only digits.
 Count number of characters recursively.
 
 📸 Screenshot:
-*(Add screenshot here)*
+<img width="1470" height="956" alt="Screenshot 2026-03-25 at 05 59 30" src="https://github.com/user-attachments/assets/3e96db28-69b9-4d2a-8ea3-ea4adad4cd65" />
+<img width="1470" height="956" alt="Screenshot 2026-03-25 at 05 59 39" src="https://github.com/user-attachments/assets/699ecac9-e8c6-4c57-bf37-f31abc2c75e9" />
+
 
 ---
 
@@ -152,7 +165,9 @@ Count number of characters recursively.
 Find GCD using Euclidean Algorithm recursively.
 
 📸 Screenshot:
-*(Add screenshot here)*
+<img width="1470" height="956" alt="Screenshot 2026-03-25 at 06 03 00" src="https://github.com/user-attachments/assets/1d68c677-45df-4f09-8516-b036b2a2ad6b" />
+<img width="1470" height="956" alt="Screenshot 2026-03-25 at 06 03 07" src="https://github.com/user-attachments/assets/ab60a9b8-ed58-4624-9a10-a303df9e775c" />
+
 
 ---
 
@@ -192,6 +207,6 @@ This assignment helped me build a strong understanding of recursion and its appl
 
 ## 🔗 Submission
 
-GitHub repository link: *(Add your repo link here)*
+GitHub repository link: 
 
 ---
