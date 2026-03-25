@@ -58,7 +58,7 @@ assignment1/
 Print each digit of a number on a separate line using recursion.
 
 📸 Screenshot:
-<img width="1470" height="956" alt="Screenshot 2026-03-24 at 14 48 09" src="https://github.com/user-attachments/assets/0c9df6c2-d823-4730-8eb5-b106565ad8a3" />
+*<img width="1470" height="956" alt="Screenshot 2026-03-24 at 14 48 09" src="https://github.com/user-attachments/assets/0c9df6c2-d823-4730-8eb5-b106565ad8a3" />*
 
 
 ---
